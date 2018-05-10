@@ -2,12 +2,12 @@
 # hortonworks_home
 
 
-This is a project to demo how to use python 2, python3 and R on the same page, which is based on the latest hortonworks sandbox by installation Anaconda's python 3 and 2, as well R kernal, so we can do data science project to combine python 2, 3 and R on the same notebook page.
+This is a project to demo to play around and administration of the hadoop ecosystem by using hortonworks sandbox (I installed it on VMWare and use ngrok to temporarily host the web service), also I installed Anacoda's python 2, python3 and R, so we can do data science project to combine python 2, 3 and R on the same notebook page (jubyter or jupyter-lab).
 
 I installed Hortonworks Sandbox on my desktop on the VMWare and installed anaconda3. You are welcome to try them out!
 
 
-Updated: 4/2/2018
+Updated: 5/10/2018
 
 1) ambari 
 http://500a9739.ngrok.io
