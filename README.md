@@ -16,7 +16,7 @@ http://500a9739.ngrok.io
 http://673ad2e0.ngrok.io
 
 3) jupyter notebook
-http://0a7d8f9f.ngrok.io
+http://d168c1da.ngrok.io
 
 4) jupyter-lab 
 http://bb8f6b4b.ngrok.io
